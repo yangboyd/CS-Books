@@ -1,13 +1,5 @@
 <h1 align="center">超过1000本的计算机经典书籍分享</h1>
-<p align="center">
-    <a href="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@4.0/202103/%E9%98%BF%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1%E6%97%A0%E6%B1%89%E5%AD%972.png"><img src="https://img.shields.io/badge/WeChat-微信群-blue.svg" alt="微信群"></a>
-<a href="https://mp.weixin.qq.com/s/gRw25aRFBVB0lUhBAJqV5g"><img src="https://img.shields.io/badge/公众号-拓跋阿秀-green.svg" alt="公众号"></a>
-  <a href="https://www.zhihu.com/people/tuo-ba-a-xiu"><img src="https://img.shields.io/badge/知乎-拓跋阿秀-informational.svg" alt="知乎"></a>
-   <a href="https://blog.csdn.net/songhao19?spm=1000.2115.3001.5343&type=blog"><img src="https://img.shields.io/badge/CSDN-拓跋阿秀-important.svg" alt="CSDN"></a>
-       <a href="https://blog.nowcoder.net/hello32"><img src="https://img.shields.io/badge/牛客网-拱白菜的阿秀-9cf" alt="牛客网"></a>
-    <a href="https://github.com/forthespada/InterviewGuide"><img src="https://img.shields.io/badge/GitHub-计算机校招社招面试题汇总-critical.svg" alt="八股文">      <a href="https://interviewguide.cn/#/"><img src="https://img.shields.io/badge/推荐阅读-大佬好文-import.svg" alt="学习"></a>
-           <a href="https://github.com/forthespada/CS-Books"><img src="https://img.shields.io/badge/PDF-免费计算机书籍-lightgrey.svg" alt="免费PDF"></a>
-        </p>
+
 
 
 
@@ -48,36 +40,6 @@
 
 
 
-#### 4、🔥🔥🔥分享一个我自己开发的面试求职网站
-
-<details><summary><a>👉查看关于该网站更多</a></summary></br>
-
-
-这个网站的由来是自己在2023年3月份找工作期间萌生的想法，当时自己希望根据筛选条件查看自己想要看的面试问题，比如可以查看行业为互联网，公司为字节跳动，考察岗位为后端，考察科目为数据结构，考察时间为最近一年之类的面试题有哪些？
-
-
-但很可惜，我并没有找到类似的网站。
-
-后来这个想法就一直在我心里深埋着，5月份我从字节跳动跳槽到某外企后，利用自己的业余休息时间，前后花了两三个月时间将之复现出来，前后端都是自己一个人写的，包括两个前端和一个后端的代码编写以及数据的收集和录入，希望这个InterviewGuide网站能让大家接下来的求职找工作更加顺利一些！
-</details>
-
-自己 **2023** 年 **5-7** 月期间开发了一个网站，能够根据**指定行业、公司、面试岗位、科目以及考察时间**等进行**定向筛选面试真题**，还附带了**最近考察时间**和**累计考察次数**。
-
-比如**我想查一下行业为互联网，公司为字节跳动，考察岗位为后端，科目不限，而考察时间为最近一年之类的面试题**有哪些？
-
-![](http://oss.interviewguide.cn/img/202307291803868.png)
-
-行业除了互联网还有国企、银行、外企等行业，截止我发现的时候是这样的，好像该网站后期又在逐步添加新的数据了。
-
-![](http://oss.interviewguide.cn/img/202307291805445.png)
-
-就拿互联网来说，国内外主流一二线大厂全都覆盖了，比如`字节跳动`、`阿里`、`腾讯`、`百度`、`美团`，除此外比如一些其余的非互联网行业，如中国银行、建设银行、联通、移动等都包含在内。
-
-![](http://oss.interviewguide.cn/img/202307291804434.png)
-
-
-
-希望我开发的网站能够对你有所帮助！祝你求职顺利！**网站链接**：https://top.interviewguide.cn/
 
 
 
@@ -89,14 +51,7 @@
 
 #### 8、😜发现一个相当不错的计算机各类种语言&学科学习路线仓库， <a href="https://github.com/awesome-cs-community/developer-roadmap-zh-CN" target="_blank">点此查看</a>
 
-#### 9、赞赏
 
-<div align=left>
-    <p>这些书籍基本都是我从一个盗版电子书网站上收集到的，网址是：kanshuy1234.com，现在分享出来希望能对大家有所帮助，自己也花了很久时间整理出来的。<br>
-      如果觉得本仓库有用，赏赐一块钱，买杯奶茶喝可好？感谢您了~</p>
-<figure class="half" align="center">
-    <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/支付宝赞赏4.png" style="right;zoom: 40%;" />
-                                                                                                                        <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/微信赞赏4.png"  style="right;zoom: 40%;" />
                                                                                                                          </figure></div>
 
 
